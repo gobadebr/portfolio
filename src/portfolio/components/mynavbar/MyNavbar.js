@@ -10,12 +10,12 @@ export class MyNavbar extends Component {
         return (
             <div>
                 <Navbar collapseOnSelect expand="md"  variant="dark" fixed="top" className=" nav-theme justify-content-between">
-                    {/* <Navbar.Brand > */}
-                        <div className="headem">
+                    <Navbar.Brand className="headem">
+                        {/* <div > */}
                             <span> <i className="far fa-envelope"></i>&nbsp; gobadebr@gmail.com</span>
                             <span>&nbsp; <i className="fas fa-phone-alt"></i>&nbsp; +91 7387938233</span>
-                        </div>                    
-                    {/* </Navbar.Brand>  */}
+                        {/* </div>                     */}
+                    </Navbar.Brand> 
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="ml-auto">
