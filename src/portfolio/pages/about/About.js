@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 import Button from "react-bootstrap/Button";
 
-import profile from "../../images/profile/profile.JPG"
+import profile from "../../images/profile/profile.jpg"
 import "./About.css"
 
 export class About extends Component {
@@ -35,7 +35,7 @@ export class About extends Component {
                                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                                 <br />
                                 I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                                <br /> <br/>
+                                <br /> <br/><
                                         {/* Buttons  */}
                                 <Col className="d-flex justify-content-center flex-wrap">
                                     <div>
