@@ -28,14 +28,14 @@ export class About extends Component {
                             <Row className=" align-items-start p-2 my-details rounded">
                                 Hi there! I am <strong>&nbsp;Balu Gobade</strong>
                                 <br />
-                                 I am a Python Developer and Web Developer with  Python, Django, React.js and MySQL.
+                                 I am a Python Developer  with  Python, Django, React.js and MySQL.
                                 <br />
                                 In 2018, I successfully completed my Engineering with specialization in 'Information Technology'.
                                 <br />
                                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                                 <br />
                                 I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                                <br /> <br/><br/>
+                                <br /> <br/>
                                         {/* Buttons  */}
                                 <Col className="d-flex justify-content-center flex-wrap">
                                     <div>

@@ -34,7 +34,7 @@ export class Project extends Component {
         <ImageEvent
             // date="15/05/2021"
             className="text-center"
-            text="React ToDo App"
+            text="React Django API ToDo App"
             src={L_ReactDRFToDoList}
             alt="React ToDo App"
           >
@@ -82,7 +82,7 @@ export class Project extends Component {
                                 rounded
                                 className="image-style1 m-1"
                               ></Image>{" "}
-                              Django API
+                              Django  <a href="https://djapitodo.herokuapp.com/tasks/" target="_blank">API url</a>
                             </span>
                           </li>
                          <li>
@@ -159,17 +159,17 @@ export class Project extends Component {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href=""
+                  href="https://drfjstodo.herokuapp.com/"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
-                {/* <UrlButton
-                  href="https://github.com/akjha96/Todo-List-React"
+                <UrlButton
+                  href="https://github.com/gobadebr/drftodo"
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton> */}
+                </UrlButton>
               </div>
             </div>
           </ImageEvent>

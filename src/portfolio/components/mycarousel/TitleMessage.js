@@ -16,14 +16,14 @@ const MyTitleMessage = styled.h1`
   div {
     color: ${props => props.theme.textColor};
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
-    font-weight: 100;
-    letter-spacing: 3px;
+    font-weight:300;
+    letter-spacing: 1px;
     .main {
       font-size: 50px;
     }
     .sub {
-      font-size: 30px;
-      letter-spacing: 2px;
+      font-size: 35px;
+      letter-spacing: 1px;
     }
   }
 `;
@@ -42,7 +42,7 @@ const TitleMessage = () => (
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Python Developer","Web Developer"],
+              strings: ["Python Developer","Full Stack Developer"],
               autoStart: true,
               loop: true,
               delay: 50
