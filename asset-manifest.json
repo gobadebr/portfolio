@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.29ce8d0d.chunk.css",
-    "main.js": "/portfolio/static/js/main.05c2d5e9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.05c2d5e9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0f072de4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0f072de4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.0f4399fd.chunk.js": "/portfolio/static/js/2.0f4399fd.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/html-5.821ba738.svg": "/portfolio/static/media/html-5.821ba738.svg",
     "static/media/javascript.ba40d6a9.svg": "/portfolio/static/media/javascript.ba40d6a9.svg",
     "static/media/mongodb.d89a6eeb.svg": "/portfolio/static/media/mongodb.d89a6eeb.svg",
-    "static/media/profile.42b54e53.jpg": "/portfolio/static/media/profile.42b54e53.jpg",
+    "static/media/profile.2b3c1aa6.jpg": "/portfolio/static/media/profile.2b3c1aa6.jpg",
     "static/media/python.e6d7dc73.svg": "/portfolio/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/portfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react.add74742.svg": "/portfolio/static/media/react.add74742.svg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.76232b81.js",
     "static/js/2.0f4399fd.chunk.js",
     "static/css/main.29ce8d0d.chunk.css",
-    "static/js/main.05c2d5e9.chunk.js"
+    "static/js/main.0f072de4.chunk.js"
   ]
 }
