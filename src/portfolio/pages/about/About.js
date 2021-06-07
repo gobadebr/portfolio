@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 import Button from "react-bootstrap/Button";
 
-import profile from "../../images/profile/profile.jpg"
+import profile from "../../images/profile/profile.JPG"
 import "./About.css"
 
 export class About extends Component {
