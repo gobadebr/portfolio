@@ -7,6 +7,7 @@ import Image from 'react-bootstrap/Image'
 import Button from "react-bootstrap/Button";
 
 import profile from "../../images/profile/profile.jpg"
+import MyResume from "./Resume.pdf"
 import "./About.css"
 
 export class About extends Component {
@@ -47,7 +48,7 @@ export class About extends Component {
                                     </div>
 
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1GU1_j3w_EBfAedlXy3qVSp61LYCoXMwK/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <a href={MyResume} download="BaluResume.pdf" target="_blank"  rel="noopener noreferrer">
                                         <Button className="m-2" variant="outline-success">
                                         My Resume
                                         </Button>

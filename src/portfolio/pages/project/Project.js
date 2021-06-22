@@ -283,7 +283,7 @@ export class Project extends Component {
           <ImageEvent
             // date="01/01/2021"
             className="text-center"
-            text="Get GitHub Info"
+            text="Get Statewise covid-19 data"
             src={L_GetStateWiseCovid}
             alt="Get Statewise covid-19 data"
           >
